@@ -1,14 +1,14 @@
 <a href=#><img width=100% height=auto src=https://i.imgur.com/iXuL1HG.png height=175px/></a>
 
-<h1 align=center>Hᴇʟʟᴏ <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width=30px> I Aᴍ Sɪᴍᴘʟᴇ Bᴏʏ</h1>
-<h3 align=center>Im a professional but learning developer from India.</h3>
+<h1 align=center>Hᴇʟʟᴏ <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width=30px> Tᴇᴀᴍ Tɪᴛᴀɴ X </h1>
+<h3 align=center>Wᴇ Aʀᴇ Nᴏᴛ Pʀᴏғᴇssɪᴏɴᴀʟ Aɴᴅ Aʀᴇ Lᴇᴀʀɴɪɴɢ Dᴇᴠᴇʟᴏᴘᴇʀs Fʀᴏᴍ Iɴᴅɪᴀ</h3>
 
 ## ∆- Aʙᴏᴜᴛ Mᴇ
 
 - |• I’m looking to collaborate on **OpenSource Projects**
-- |• How to reach me **gamingforever.49449@gmail.com**
+- |• How to reach us **titanxsupport@gmail.com**
 - |• Fun fact **I play games and make my brain relaxive by making new projects.**
-- |• Myd dream is to be a commanding officer in **Indian Cyber Security.**
+- |• My dream is to be a commanding officer in **Indian Cyber Security.**
 
 ## ∆- Mʏ Lᴀɴɢᴜᴀɢᴇs
 <p align=left> 
@@ -34,8 +34,8 @@
 ## ∆- Gɪᴛʜᴜʙ Sᴛᴀᴛᴜs
 
   <br/>
-    <a href=https://github.com/ElitesOS/github-readme-stats><img alt=Eʟɪᴛᴇs Os Gɪᴛʜᴜʙ Sᴛᴀᴛs src=https://github-readme-stats.vercel.app/api?username=ElitesOS&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117 /></a>
-  <a href=https://github.com/ElitesOS/github-readme-stats><img alt=Eʟɪᴛᴇs Os Usᴇᴅ Lᴀɴɢᴜᴀɢᴇs src=https://github-readme-stats.vercel.app/api/top-langs/?username=ElitesOS&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117 /></a>
+    <a href=https://github.com/ElitesOS/github-readme-stats><img alt=Eʟɪᴛᴇs Os Gɪᴛʜᴜʙ Sᴛᴀᴛs src=https://github-readme-stats.vercel.app/api?username=Team-Titan-X&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117 /></a>
+  <a href=https://github.com/ElitesOS/github-readme-stats><img alt=Eʟɪᴛᴇs Os Usᴇᴅ Lᴀɴɢᴜᴀɢᴇs src=https://github-readme-stats.vercel.app/api/top-langs/?username=Team-Titan-X&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117 /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesnt reflect experience or skill level.
 
@@ -46,13 +46,13 @@
 ## ∆- Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
 <p align=left>
 
-<a href = https://www.instagram.com/its_electronix/><img src=https://img.icons8.com/fluent/48/000000/instagram-new.png/></a>
+<a href = https://www.instagram.com/itz_rijul_xd/><img src=https://img.icons8.com/fluent/48/000000/instagram-new.png/></a>
 <a href = https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA><img src=https://img.icons8.com/color/48/000000/youtube-play.png/></a>
 
 </p>
 
 ## ∆- Sᴜᴘᴘᴏʀᴛ Sᴛᴀᴛᴜs
-<a href=https://github.com/ElitesOS/github-profile-views-counter>
-    <img src=https://komarev.com/ghpvc/?username=ElitesOS>
+<a href=https://github.com/Team-Titan-X/github-profile-views-counter>
+    <img src=https://komarev.com/ghpvc/?username=Team-Titan-X>
 </a>
-<a href=https://github.com/ElitesOS?tab=followers><img src=https://img.shields.io/github/followers/ElitesOS?label=Followers&style=social alt=GitHub Badge></a>
+<a href=https://github.com/Team-Titan-X?tab=followers><img src=https://img.shields.io/github/followers/Team-Titan-X?label=Followers&style=social alt=GitHub Badge></a>
